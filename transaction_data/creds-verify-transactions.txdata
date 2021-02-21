@@ -1,0 +1,44 @@
+[
+    {
+        "transactionName": "credsVerifyExists",
+        "transactionLabel": "A test credsVerifyExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createCredsVerify",
+        "transactionLabel": "A test createCredsVerify transaction",
+        "arguments": [
+            "001",
+            "some value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "readCredsVerify",
+        "transactionLabel": "A test readCredsVerify transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "updateCredsVerify",
+        "transactionLabel": "A test updateCredsVerify transaction",
+        "arguments": [
+            "001",
+            "some other value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "deleteCredsVerify",
+        "transactionLabel": "A test deleteCredsVerify transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]
